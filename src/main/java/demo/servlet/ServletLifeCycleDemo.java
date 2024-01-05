@@ -43,7 +43,7 @@ public class ServletLifeCycleDemo extends HttpServlet {
 			DB_URL = "jdbc:mysql://localhost:3306/userinfo";
 			/* Database credentials */
 			USER = "root";
-			PASS = "root";
+			PASS = "";
 		}
 
 		catch (Exception e) {
